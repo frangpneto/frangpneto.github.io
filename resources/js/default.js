@@ -540,6 +540,56 @@ var projects = [
         "status": "Concluído"
     },
     {
+        "name": "CNOVA",
+        "type": "Back-end",
+        "logo": "resources/img/projects/cnova.png",
+        "technologies": "C#, RestAPI",
+        "description": "Integração de pedido, preço, estoque, tracking e catálogo para as lojas Casas Bahia, Ponto Frio e Extra.com",
+        "category": "Leveros",
+        "link": "",
+        "status": "Concluído"
+    },
+    {
+        "name": "B2W",
+        "type": "Back-end",
+        "logo": "resources/img/projects/b2w.jpg",
+        "technologies": "C#, RestAPI",
+        "description": "Integração de pedido, preço, estoque, tracking e catálogo para as lojas Americanas.com, Submarino.com e Shoptime.com",
+        "category": "Leveros",
+        "link": "",
+        "status": "Concluído"
+    },
+	{
+        "name": "Multi-Ar",
+        "type": "Front-end",
+        "logo": "resources/img/projects/multiar.jpg",
+        "technologies": "Html, Css, jQuery, JavaScript",
+        "description": "Site da empresa Multi-Ar (Hoje Leveros)",
+        "category": "Leveros",
+        "link": "",
+        "status": "Concluído"
+    },
+	{
+        "name": "Carrefour",
+        "type": "Back-end",
+        "logo": "resources/img/projects/Carrefour.png",
+        "technologies": "C#, RestAPI",
+        "description": "Integração de pedido, preço, estoque, tracking e catálogo para a loja Carrefour.com.br",
+        "category": "Leveros",
+        "link": "",
+        "status": "Concluído"
+    },
+	{
+        "name": "SAP",
+        "type": "Back-end",
+        "logo": "resources/img/projects/sap.jpg",
+        "technologies": "ABAP",
+        "description": "Migração de ERP, substituição do DB1 Global para SAP ECC",
+        "category": "Leveros",
+        "link": "",
+        "status": "Concluído"
+    },
+    {
         "name": "App Comissão",
         "type": "Front-end",
         "logo": "resources/img/projects/leveros.png",
